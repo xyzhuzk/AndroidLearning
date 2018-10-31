@@ -1,0 +1,18 @@
+在git上和本地名称一样项目
+
+$ cd d:	(切换到本地项目路径)
+
+$ cd AndroidStudioProjectsGit/AndroidLearning
+
+$ git clone git项目网址	(把远程版本克隆到本地)
+(把克隆下载后的文件都复制到上一层，并删除掉)
+
+$ ls -al (查看文件)
+
+$ cd AndroidStudioProjectsGit/AndroidLearning(master)
+
+$ git add .		(提交操作)
+
+$ git commit -m "First commit."		()
+
+$ git push origin mastered
